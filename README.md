@@ -9,7 +9,7 @@ If you are using our work in your study, please cite our [papers](https://www.sc
 ```
 @article{Jeon2024_2
 title = {Efficient Arc Spline Approximation of Large Scale Complex Lane-Level Road Maps},
-journal = {Submitted to T-IV},
+journal = {**},
 volume = {**},
 pages = {**},
 year = {2024},
