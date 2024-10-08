@@ -1,5 +1,5 @@
 # Efficient Arc Spline Approximation
-[T-IV] Efficient Arc Spline Approximation of Large Scale Complex Lane-Level Road Maps
+Efficient Arc Spline Approximation of Large Scale Complex Lane-Level Road Maps
 * Install MATLAB and open figures to view the arc spline approximation results for each map dataset.
 
 * Lanelet maps converted from nuScenes dataset are from the work of Naumann et al. (2023)
