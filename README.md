@@ -8,7 +8,7 @@ Efficient Arc Spline Approximation of Large Scale Complex Lane-Level Road Maps
 
 # Example Results 
 * Boston Seaport
-![fig_boston.pdf](/fig_boston.pdf?raw=true "Boston Seaport")
+[fig_boston.pdf](https://github.com/user-attachments/files/18406159/fig_boston.pdf)
 
 * Singapore One North
 [fig_onenorth.pdf](https://github.com/user-attachments/files/18406135/fig_onenorth.pdf)
