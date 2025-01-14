@@ -6,6 +6,19 @@ Efficient Arc Spline Approximation of Large Scale Complex Lane-Level Road Maps
 
 * To run python script, install lanelet2.
 
+# Example Results 
+* Boston Seaport
+[fig_boston.pdf](https://github.com/user-attachments/files/18406129/fig_boston.pdf)
+
+* Singapore One North
+[fig_onenorth.pdf](https://github.com/user-attachments/files/18406135/fig_onenorth.pdf)
+
+* Singapore Holland Village
+[fig_hollandvillage.pdf](https://github.com/user-attachments/files/18406138/fig_hollandvillage.pdf)
+
+* Singapore Queenstown
+[fig_queenstown.pdf](https://github.com/user-attachments/files/18406137/fig_queenstown.pdf)
+
 ## References
 If you are using our work in your study, please cite our [papers](https://www.sciencedirect.com/science/article/pii/S0167839624000979)
 ```
