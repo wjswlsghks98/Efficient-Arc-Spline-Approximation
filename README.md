@@ -11,11 +11,11 @@ To accurately view the arc spline approximation results, download the interactiv
 
 * [Boston Seaport](/fig_boston.pdf?raw=true)
 
-* [Singapore One North](https://github.com/user-attachments/files/18406135/fig_onenorth.pdf)
+* [Singapore One North](/fig_onenorth.pdf?raw=true)
 
-* [Singapore Holland Village](https://github.com/user-attachments/files/18406138/fig_hollandvillage.pdf)
+* [Singapore Holland Village](/fig_hollandvillage.pdf?raw=true)
 
-* [Singapore Queenstown](https://github.com/user-attachments/files/18406137/fig_queenstown.pdf)
+* [Singapore Queenstown](/fig_queenstown.pdf?raw=true)
 
 ## References
 If you are using our work in your study, please cite our [papers](https://www.sciencedirect.com/science/article/pii/S0167839624000979)
