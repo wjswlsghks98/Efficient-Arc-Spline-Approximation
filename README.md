@@ -4,6 +4,8 @@ Efficient Arc Spline Approximation of Large Scale Complex Lane-Level Road Maps
 
 * Lanelet maps converted from nuScenes dataset are from the work of Naumann et al. (2023)
 
+* To run python script, install lanelet2.
+
 ## References
 If you are using our work in your study, please cite our [papers](https://www.sciencedirect.com/science/article/pii/S0167839624000979)
 ```
