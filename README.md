@@ -13,11 +13,19 @@ To accurately view the arc spline approximation results, download the interactiv
 
 * [Boston Seaport](/Data/nuScenes/boston-seaport/fig_boston.pdf)
 
+* [Boston Seaport with Cluster Distribution](/Data/nuScenes/boston-seaport/fig_boston_AB.pdf)
+
 * [Singapore One North](/Data/nuScenes/singapore-onenorth/fig_onenorth.pdf)
+
+* [Singapore One North with Cluster Distribution](/Data/nuScenes/singapore-onenorth/fig_onenorth_AB.pdf)
 
 * [Singapore Holland Village](/Data/nuScenes/singapore-hollandvillage/fig_hollandvillage.pdf)
 
+* [Singapore Holland Village with Cluster Distribution](/Data/nuScenes/singapore-hollandvillage/fig_hollandvillage_AB.pdf)
+
 * [Singapore Queenstown](/Data/nuScenes/singapore-queenstown/fig_queenstown.pdf)
+
+* [Singapore Queenstown with Cluster Distribution](/Data/nuScenes/singapore-queenstown/fig_queenstown_AB.pdf)
 
 ## References
 If you are using our work in your study, please cite our [papers](https://www.sciencedirect.com/science/article/pii/S0167839624000979)
