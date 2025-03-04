@@ -9,7 +9,7 @@ Efficient Arc Spline Approximation of Large Scale Complex Lane-Level Road Maps
 # Example Results 
 To accurately view the arc spline approximation results, download the interactive .fig files and open with MATLAB. The pdf files only show the overall result in a low resolution.
 
-* [Boston Seaport](/fig_boston.pdf?raw=true)
+* [Boston Seaport](/Data/nuScenes/boston-seaport/fig_boston.pdf?raw=true)
 
 * [Singapore One North](/fig_onenorth.pdf?raw=true)
 
