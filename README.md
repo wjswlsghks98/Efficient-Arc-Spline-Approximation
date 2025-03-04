@@ -2,6 +2,8 @@
 Efficient Arc Spline Approximation of Large Scale Complex Lane-Level Road Maps
 * Install MATLAB and open figures to view the arc spline approximation results for each map dataset.
 
+> If opening MATLAB figures fail, try installing the [beta version of MATLAB desktop](https://kr.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matlab-beta) and then open the .fig files 
+
 * Lanelet maps converted from nuScenes dataset are from the work of Naumann et al. (2023)
 
 * To run python script, install lanelet2.
@@ -11,11 +13,11 @@ To accurately view the arc spline approximation results, download the interactiv
 
 * [Boston Seaport](/Data/nuScenes/boston-seaport/fig_boston.pdf)
 
-* [Singapore One North](/fig_onenorth.pdf?raw=true)
+* [Singapore One North](/Data/nuScenes/singapore-onenorth/fig_onenorth.pdf)
 
-* [Singapore Holland Village](/fig_hollandvillage.pdf?raw=true)
+* [Singapore Holland Village](/Data/nuScenes/singapore-hollandvillage/fig_hollandvillage.pdf)
 
-* [Singapore Queenstown](/fig_queenstown.pdf?raw=true)
+* [Singapore Queenstown](/Data/nuScenes/singapore-queenstown/fig_queenstown.pdf)
 
 ## References
 If you are using our work in your study, please cite our [papers](https://www.sciencedirect.com/science/article/pii/S0167839624000979)
