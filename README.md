@@ -30,18 +30,18 @@ To accurately view the arc spline approximation results, download the interactiv
 ## References
 If you are using our work in your study, please cite our [papers](https://www.sciencedirect.com/science/article/pii/S0167839624000979)
 ```
-@article{Jeon2024_2
-title = {Efficient Arc Spline Approximation of Large Scale Complex Lane-Level Road Maps},
-journal = {**},
-volume = {**},
-pages = {**},
-year = {2024},
-issn = {**},
-doi =  {**},
-url = {**},
-keywords = {**},
-abstract = {**}
+@ARTICLE{Jeon2025ArcSpline,
+author={Jeon, Jinhwan and Choi, Seibum B.},
+journal={IEEE Transactions on Intelligent Transportation Systems}, 
+title={Efficient Arc Spline Approximation of Large Sized Complex Lane-Level Road Maps}, 
+year={2025},
+volume={},
+number={},
+pages={1-14},
+keywords={Roads;Splines (mathematics);Merging;Optimization;Clustering algorithms;Partitioning algorithms;Autonomous vehicles;Location awareness;Computational efficiency;Computational modeling;Lane-level maps;road network;arc spline approximation;graph partitioning;divide and conquer},
+doi={10.1109/TITS.2025.3574664}
 }
+
 
 @article{Jeon2024_1,
 title = {Reliability-based {G}1 continuous arc spline approximation},
