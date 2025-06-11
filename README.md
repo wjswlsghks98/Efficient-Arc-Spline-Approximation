@@ -28,7 +28,7 @@ To accurately view the arc spline approximation results, download the interactiv
 * [Singapore Queenstown with Cluster Distribution](/Data/nuScenes/singapore-queenstown/fig_queenstown_AB.pdf)
 
 ## References
-If you are using our work in your study, please cite our [papers](https://www.sciencedirect.com/science/article/pii/S0167839624000979)
+If you are using our work in your study, please cite [our](https://ieeexplore.ieee.org/document/11029496) [papers](https://www.sciencedirect.com/science/article/pii/S0167839624000979)
 ```
 @ARTICLE{Jeon2025ArcSpline,
 author={Jeon, Jinhwan and Choi, Seibum B.},
