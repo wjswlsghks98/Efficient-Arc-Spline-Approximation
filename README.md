@@ -1,5 +1,5 @@
 # Efficient Arc Spline Approximation
-Efficient Arc Spline Approximation of Large Scale Complex Lane-Level Road Maps
+Efficient Arc Spline Approximation of Large Sized Complex Lane-Level Road Map
 * Install MATLAB and open figures to view the arc spline approximation results for each map dataset.
 
 > If opening MATLAB figures fail, try installing the [beta version of MATLAB desktop](https://kr.mathworks.com/matlabcentral/fileexchange/119593-new-desktop-for-matlab-beta) and then open the .fig files 
